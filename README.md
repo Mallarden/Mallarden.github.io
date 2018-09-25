@@ -1,2 +1,1 @@
-# React-blank wip
-Working on a personal boilerplate
+# Mallarden.github.io
